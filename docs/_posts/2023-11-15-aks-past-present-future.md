@@ -1,6 +1,8 @@
 ---
+layout: post
 title: AKS - How we got here
 description: An exploration of the past, present, future for Azure Kubernetes Service (AKS)
+permalink: /AKS/
 authors: 
   - jorge_palma
 ---
