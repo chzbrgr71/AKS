@@ -23,7 +23,7 @@ title: Azure Kubernetes Service
 email: brian.redmond@microsoft.com
 description: >- # this means to ignore newlines until "baseurl:"
   AKS Engineering Team Blog
-# baseurl: "gbb-blog" # the subpath of your site, e.g. /blog
+baseurl: AKS
 twitter_username: chzbrgr71
 github_username:  chzbrgr71
 
