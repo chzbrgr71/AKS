@@ -1,6 +1,8 @@
 ---
 layout: post
 title: AKS - How we got here
+date: 2023-11-15
+categories: general
 description: An exploration of the past, present, future for Azure Kubernetes Service (AKS)
 #permalink: /AKS/:title.html
 authors: 

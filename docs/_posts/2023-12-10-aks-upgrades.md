@@ -1,6 +1,8 @@
 ---
 layout: post
 title: AKS Upgrades - Gold Standard Approach
+date: 2023-12-10
+categories: operations
 description: This article explains how to setup automated upgrades in AKS with minimal disruption to workloads
 #permalink: ./AKS/:url
 authors: 
