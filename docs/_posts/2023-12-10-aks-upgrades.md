@@ -2,7 +2,7 @@
 layout: post
 title: AKS Upgrades - Gold Standard Approach
 description: This article explains how to setup automated upgrades in AKS with minimal disruption to workloads
-#permalink: ./:title.html
+permalink: ./AKS/:url
 authors: 
   - kaarthikeyan_subramanian
 ---
