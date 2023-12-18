@@ -211,7 +211,7 @@ sidebar:
         -   url: index.html
             title: Home 
             order: 0
-        -   url: https://github.com/chzbrgr71/chzbrgr71.github.io # Local or remote URL
+        -   url: https://github.com/chzbrgr71/AKS # Local or remote URL
             title: <span class="i-github u-mr-xxs"></span> View on GitHub # Link text
             order: 0 # Sets the rank of the page link into the sidebar, higher values give lower rank for the page link
             # category: Showcase # Add this this link into a category just like pages
@@ -253,7 +253,7 @@ shields:
     -   image_html: <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/olivier3lanc/LibDoc-remote-demo?logo=github&style=flat-square">
         link_url: https://github.com/olivier3lanc/LibDoc-remote-demo
     -   image_html: <img alt="no trackers, no cookies and no analytics" title="This website has no trackers, no cookies and no analytics. Only feedback is important :)" src="https://img.shields.io/badge/no%20trackers|cookies|analytics-Just%20feedback-green?style=flat-square">
-        link_url: 'mailto:olivier3lanc@gmail.com'
+        link_url: 'mailto:brian.redmond@microsoft.com'
 
 # ASSETS
 # Settings for the assets layout
