@@ -150,7 +150,7 @@ playground:
         image: /assets/libdoc/img/meta-image-playground.jpg
 
 # METADATA
-# Metadata informations for the site/project
+# Metadata information for the site/project
 metadata:
     # LANGUAGE
     # Change the language of the playground, default is en
