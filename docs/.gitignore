@@ -3,3 +3,11 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+.DS_Store
+**/.DS_Store
+.vscode
+**/.vscode
+.azure
+Gemfile.lock
+**/Gemfile.lock
+docs/Gemfile.lock
