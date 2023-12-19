@@ -27,7 +27,8 @@ twitter_username: theakscommunity
 github_username:  Azure
 
 # Build settings
-theme: jekyll-theme-clean-blog
+#theme: jekyll-theme-clean-blog
+remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
 plugins:
   - jekyll-feed
 
