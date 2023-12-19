@@ -1,5 +1,4 @@
 ---
-layout: post
 title: AKS Upgrades - Gold Standard Approach
 date: 2023-12-10
 categories: operations
