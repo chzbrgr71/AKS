@@ -1,5 +1,5 @@
 ---
-layout: post
+#layout: post
 title: AKS - How we got here
 date: 2023-11-15
 categories: general
