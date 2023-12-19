@@ -28,9 +28,9 @@ github_username:  Azure
 
 # Build settings
 #theme: jekyll-theme-clean-blog
-remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
-plugins:
-  - jekyll-feed
+# remote_theme: StartBootstrap/startbootstrap-clean-blog-jekyll
+# plugins:
+#   - jekyll-feed
 
 defaults:
   -
