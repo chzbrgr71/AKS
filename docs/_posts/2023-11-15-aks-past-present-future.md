@@ -5,7 +5,7 @@ subtitle: "An exploration of the past, present, future for Azure Kubernetes Serv
 description: "An exploration of the past, present, future for Azure Kubernetes Service (AKS)."
 date: 2023-11-15
 author: Jorge Palma
-background: "/img/posts/05.jpg"
+background: "/img/posts/GitHub_banner_TEMPLATE.png"
 ---
 
 
