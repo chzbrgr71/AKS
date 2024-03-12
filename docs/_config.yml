@@ -1,7 +1,7 @@
 title: "AKS Engineering Team Blog"
 author: "AKS Engineering Team"
 description: "Insights and best practices from the AKS Engineering Team"
-permalink: /:title/
+permalink: /:year/:month/:day/:title
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
