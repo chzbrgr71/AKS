@@ -1,27 +1,35 @@
-title:              AKS Engineering Team Blog
-email:              brian.redmond@microsoft.com
-description:        Insights and best practices from the AKS Engineering Team
-author:             Brian Redmond
-baseurl:            "/AKS"
-url:                ""
+title: "AKS Engineering Team Blog"
+author: "AKS Engineering Team"
+description: "Insights and best practices from the AKS Engineering Team"
+permalink: /:year/:month/:day/:title
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
 
-remote_theme:       StartBootstrap/startbootstrap-clean-blog-jekyll
+# Layout
 
-# Social Profiles
-twitter_username:   theakscommunity
-github_username:    Azure/aks
-facebook_username:  
-instagram_username:  
-linkedin_username:
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+minimal: false             # use a dark header
 
-# Add your google-analytics ID here to activate google analytics
-# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+# Menu
 
-# Build settings
-markdown:           kramdown
-paginate:           5
-paginate_path:      "/posts/page:num/"
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html"}
+  - {file: "about.html"}
+  - {file: "contact.html"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:brian.redmond@microsoft.com"}
+  - {title: Github, icon: github, url: "https://github.com/Azure/AKS"}
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/theakscommunity"}
+  - {title: YouTube, icon: youtube, url: "https://www.youtube.com/@theakscommunity"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
 plugins:
   - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
