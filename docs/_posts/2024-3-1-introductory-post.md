@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Announcing the AKS Engineering Blob"
+description: "Welcome to the AKS Engineering Blog!"
 date: 2024-3-12
 author: Kaarthikeyan Subramanian
 ---
