@@ -2,11 +2,11 @@
 layout: post
 title: "Announcing the AKS Engineering Blob"
 description: "Welcome to the AKS Engineering Blog!"
-date: 2024-3-12
+date: 2024-3-11
 author: Brian Redmond
 ---
 
-## Welcome to the new AKS Engineering Blog
+## Welcome
 
 This Blog is a home for content directly from the Azure Kubernetes Service (AKS) Engineering and Product Management Team.  
 
