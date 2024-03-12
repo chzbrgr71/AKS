@@ -1,16 +1,10 @@
 ---
 layout: post
 title: "AKS - How we got here"
-subtitle: "An exploration of the past, present, future for Azure Kubernetes Service (AKS)."
 description: "An exploration of the past, present, future for Azure Kubernetes Service (AKS)."
 date: 2023-11-15
 author: Jorge Palma
-background: "/img/posts/GitHub_banner_TEMPLATE.png"
 ---
-
-
-
-# AKS - How we got here
 
 ## Introduction
 
