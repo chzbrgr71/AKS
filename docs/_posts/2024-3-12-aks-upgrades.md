@@ -2,7 +2,7 @@
 layout: post
 title: "AKS Upgrades - Gold Standard Approach"
 description: "This article explains how to setup automated upgrades in AKS with minimal disruption to workloads."
-date: 2023-12-10
+date: 2024-3-12
 author: Kaarthikeyan Subramanian
 ---
 
