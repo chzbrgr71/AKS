@@ -32,6 +32,7 @@ logo: "/assets/images/400x400.png"
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-target-blank
 
 minimal_mistakes_skin: neon
 
