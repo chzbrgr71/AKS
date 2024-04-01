@@ -1,8 +1,7 @@
 ---
-layout: post
 title: "Announcing the AKS Engineering Blob"
 description: "Welcome to the AKS Engineering Blog!"
-date: 2024-3-11
+date: 2024-03-11
 author: Brian Redmond
 categories: general
 ---
