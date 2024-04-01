@@ -29,6 +29,7 @@ github_username:  theakscommunity
 logo: "/assets/images/400x400.png"
 
 # Build settings
+include: ["_pages"]
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
@@ -48,16 +49,6 @@ defaults:
       comments: true
       share: true
       related: true
-      sidebar:
-        nav: "side"
-
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
 
 # Exclude from processing.
 # The following items will not be processed, by default.
