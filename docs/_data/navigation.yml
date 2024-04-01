@@ -1,58 +1,26 @@
 main:
-  - title: "Posts"
-    url: /year-archive/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-  - title: "Collections"
-    url: /collection-archive/
-  - title: "External Link"
-    url: https://google.com
+  - title: "Roadmap"
+    url: https://github.com/Azure/AKS/projects/1
+  - title: "Releases"
+    url: https://github.com/Azure/AKS/releases
 
 side:
-  - title: Getting Started
+  - title: Categories
     children:
-      - title: "Quick-Start Guide"
+      - title: "Something"
         url: /docs/quick-start-guide/
-      - title: "Structure"
+      - title: "Another Thing"
         url: /docs/structure/
-      - title: "Installation"
+      - title: "One More Thing"
         url: /docs/installation/
-      - title: "Upgrading"
+      - title: "Okay last thing"
         url: /docs/upgrading/
 
-  - title: Customization
+  - title: Contact us
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-
-  - title: Content
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "GitHub"
+        url: https://github.com/Azure/AKS
+      - title: "X (Twitter)"
+        url: https://twitter.com/theakscommunity
+      - title: "YouTube"
+        url: https://www.youtube.com/@theakscommunity
