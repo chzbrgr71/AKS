@@ -16,10 +16,10 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "about.html"}
-  - {file: "contact.html"}
-  - {file: "archive.html"}
+  - {file: "index.html", icon: home}
+#  - {file: "about.html", icon: coffee}
+  - {file: "contact.html", icon: address-card}
+  - {file: "archive.html", title: Archives, icon: archive}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:brian.redmond@microsoft.com"}
