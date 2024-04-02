@@ -27,6 +27,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: theakscommunity
 github_username:  theakscommunity
 logo: "/assets/images/400x400.png"
+permalink: /:year/:month/:day/:title
+search: true 
 
 # Build settings
 include: ["_pages"]
@@ -49,6 +51,8 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "side"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
