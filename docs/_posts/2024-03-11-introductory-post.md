@@ -1,5 +1,5 @@
 ---
-title: "Announcing the AKS Engineering Blob"
+title: "Announcing the AKS Engineering Blog"
 description: "Welcome to the AKS Engineering Blog!"
 date: 2024-03-11
 author: Brian Redmond
