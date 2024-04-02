@@ -22,7 +22,7 @@ title: "AKS Engineering Team Blog"
 email: brian.redmond@microsoft.com
 description: >- # this means to ignore newlines until "baseurl:"
   "Insights and best practices from the AKS Engineering Team"
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/AKS" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: theakscommunity
 github_username:  theakscommunity
@@ -32,10 +32,10 @@ search: true
 
 # Build settings
 include: ["_pages"]
-#theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
   - jekyll-target-blank
 
 minimal_mistakes_skin: neon
