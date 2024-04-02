@@ -7,14 +7,25 @@ main:
 side:
   - title: Categories
     children:
-      - title: "Something"
+      - title: "General updates"
         url: /docs/quick-start-guide/
-      - title: "Another Thing"
+      - title: "Operations"
         url: /docs/structure/
-      - title: "One More Thing"
+      - title: "Networking"
         url: /docs/installation/
-      - title: "Okay last thing"
-        url: /docs/upgrading/
+      - title: "Developer topics"
+        url: /docs/upgrading/        
+      - title: "Add-ons"
+        url: /docs/upgrading/        
+
+  - title: Links
+    children:
+      - title: "Documentation"
+        url: https://learn.microsoft.com/azure/aks
+      - title: "Azure Archictecture Center"
+        url: https://learn.microsoft.com/azure/architecture/reference-architectures/containers/aks-start-here
+      - title: "Landing Zone Accelerator"
+        url: https://learn.microsoft.com/azure/cloud-adoption-framework/scenarios/app-platform/aks/landing-zone-accelerator
 
   - title: Contact us
     children:
