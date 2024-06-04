@@ -10,7 +10,7 @@ categories: general
 
 Hi! My name is Jorge Palma, I’m a PM Lead for AKS and I’m excited to be inaugurating our new AKS Engineering Blog. In this new blog, we will complement and extend some of our existing channels, providing extra context to announcements, sharing product tips & tricks that may not fit in our core [documentation](https://learn.microsoft.com/azure/aks), and giving you a peak behind the curtain of how we build the product.
 
-In this initial post, taking inspiration from Mark Russinovich who has [named so many similar series and talks like this](<https://ia600807.us.archive.org/23/items/InsideNTFS/Inside NTFS.pdf>), I hope to take you in a (shortened) journey through the history of the Azure Kubernetes Service. We will talk about the past, how we started and how we got here, where we are today and also some thoughts about what the future holds for AKS.
+In this initial post, taking inspiration from Mark Russinovich who has [named so many similar series and talks like this](https://ia600807.us.archive.org/23/items/InsideNTFS/Inside%20NTFS.pdf), I hope to take you in a (shortened) journey through the history of the Azure Kubernetes Service. We will talk about the past, how we started and how we got here, where we are today and also some thoughts about what the future holds for AKS.
 
 
 ## Past - How we got here
